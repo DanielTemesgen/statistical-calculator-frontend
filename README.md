@@ -13,4 +13,4 @@ This builds on a POC proving the mybinder-streamlit link [here](https://github.c
 ## Components
 Streamlit is great for quickly knocking up a frontend from a python script, it supports caching too which helps save on API calls. <br>
 The requests library is used to form the API get request. <br>
-Streamlit can catch errors and display them to the user, which helps for when 
+Streamlit can catch errors and display them to the user for instance when the API response status code is not 200.
