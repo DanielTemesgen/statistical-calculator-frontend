@@ -1,4 +1,7 @@
 # Statistical Calculator Frontend
+
+**🚨 Warning:** Example no longer works, AWS backend is no longer up.
+
 This repo uses streamlit to create a frontend for a simple API I created and hosted on AWS Lambda [here](https://github.com/DanielTemesgen/aws_statistical_calculator).
 
 The streamlit is hosted on mybinder.
