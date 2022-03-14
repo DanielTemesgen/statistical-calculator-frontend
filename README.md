@@ -6,7 +6,7 @@ This is not worth an EC2 instance (or the trouble it would take to make it tempo
 
 This builds on a POC proving the mybinder-streamlit link [here](https://github.com/chekos/testing-streamlit-mybinder).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanielTemesgen/statistical_calculator_frontend/master?urlpath=proxy/8501/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanielTemesgen/statistical-calculator-frontend/master?urlpath=proxy/8501/)
 
 ![image](assets/streamlit.png)
 
