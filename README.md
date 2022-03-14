@@ -2,7 +2,7 @@
 
 **🚨 Warning:** Example no longer works, AWS backend is no longer up.
 
-This repo uses streamlit to create a frontend for a simple API I created and hosted on AWS Lambda [here](https://github.com/DanielTemesgen/aws_statistical_calculator).
+This repo uses streamlit to create a frontend for a simple API I created and hosted on AWS Lambda [here](https://github.com/DanielTemesgen/aws-statistical-calculator).
 
 The streamlit is hosted on mybinder.
 This is not worth an EC2 instance (or the trouble it would take to make it temporary) and streamlit doesn't currently support serverless deployments.
